@@ -2,7 +2,7 @@
 const ele = document.getElementById("level");
 let i=0;
 while(true){
-	if(level.Element.TagName === "HTML"){
+	if(ele.Element.tagName === "HTML"){
 		break;
 	}else{
 		ele = ele.ParentNode;
