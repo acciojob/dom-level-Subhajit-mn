@@ -1,5 +1,4 @@
 //your JS code here. If required.
-document.addEventListener("DOMcontentLoaded", () =>{
 	const levleElement = document.getElementById("level");
 	let level=1;
 	while(true){
@@ -11,4 +10,3 @@ document.addEventListener("DOMcontentLoaded", () =>{
 		}
 	}
 	alert(`The level of the element is: ${level}`);
-});
