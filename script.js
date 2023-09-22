@@ -9,4 +9,4 @@
 			i++;
 		}
 	}
-	alert(`The level of the element is: ${i}`);
+	alert(`The level of the element is:  ${i}`);
